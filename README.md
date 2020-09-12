@@ -9,7 +9,7 @@
     </a>
   </p>
   <p align="center">
-    <img src="" />
+    <img src="https://github.com/nivaldoandrade/desafio-fundamentos-reactjs/blob/master/assetsReadme/Capa.png" alt="GoFinances" />
   </p>
   </header>
 
