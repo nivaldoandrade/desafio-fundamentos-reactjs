@@ -14,12 +14,13 @@
   </header>
 
  <main>
-  <h1>Summary</h1>
-  <ul>
-    <li><a href="#About">Sobre</a></li>
-    <li><a href="#Usage">Uso</a></li>
-    <li><a href="#Layout">Layout</a></li>
-  </ul>
+  <h1>Sumário</h1>
+  
+  <p align="center">
+    <a href="#Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#Uso">Uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#Layout">Layout</a>
+  </p>
 
   <h1>Sobre</h1>
   <p>GoFinances é um aplicação web para gestão de transações.</p>
