@@ -14,8 +14,6 @@
   </header>
 
  <main>
-  <h1>Sumário</h1>
-  
   <p align="center">
     <a href="#Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#Uso">Uso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
